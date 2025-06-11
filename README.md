@@ -1,3 +1,4 @@
-This is my first project.
+<h2>Amazon site clone.</h2>
 <br>
-Amazon site clone.
+First project.
+
